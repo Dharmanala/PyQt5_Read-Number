@@ -1,5 +1,5 @@
-1. install python == buka cmd ketik pip install python atau install langsung dari browser
-2. Selanjutnya install pyqt5 == buka cmd ketik: 
+1. install python == open cmd and install python 'pip install python' or go to https://www.python.org/downloads/
+2. Next install pyqt5 == open cmd and type: 
 pip install pyqt5
 pip install pyqt5-tools
-3. Selesai, dancoba run program 
+3. Finish, and try to run the program 
