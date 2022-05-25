@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Automata'0</string>
+   <string>Application</string>
   </property>
   <property name="windowIcon">
    <iconset theme="icon.png">
