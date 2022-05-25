@@ -138,7 +138,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Automata\'0"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Application"))
         MainWindow.setWindowIcon(QIcon('icon.png'))
         self.label.setText(_translate("MainWindow", "Input :"))
         self.label_2.setText(_translate("MainWindow", "Result :"))
